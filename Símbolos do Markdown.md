@@ -4,9 +4,9 @@
 
 **Texto em negrito**
 
-*Texto em itálico*
+_Texto em itálico_
 
-***Texto em negrito e itálico***
+**_Texto em negrito e itálico_**
 
 - Item da lista 1
 - Item da lista 2
